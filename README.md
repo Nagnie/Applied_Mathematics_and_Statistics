@@ -16,3 +16,7 @@ This project explores how to solve a system of linear equations using Gauss elim
 ### 2. Inverse matrix
 
 This project explores how to inverse a square matrix using Gauss-Jordan.
+
+### 3. QR decomposition
+
+This project explores how to decompose matrix A = QR using Gram-Schmidt.
